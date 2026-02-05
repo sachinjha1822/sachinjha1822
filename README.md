@@ -73,7 +73,7 @@ Multi-language website with booking & accessibility features
 
 ## 📊 GitHub Stats
 
-![Sachin's GitHub stats](https://github-readme-stats-sachin.vercel.app/api?username=sachinjha1822&show_icons=true)
+![Sachin's GitHub stats](https://github-readme-stats-qwegiwz37-sachinjha1822s-projects.vercel.app/api?username=sachinjha1822&show_icons=true)
 
 ---
 
