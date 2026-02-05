@@ -8,6 +8,9 @@ I’ve developed commerce platforms, REST APIs, and multi-module applications us
 
 🚀 Currently expanding into **Go, GraphQL, Docker, and cloud-native systems** for high-scale distributed platforms.
 
+I enjoy building high-reliability backend systems, internal tools, and developer-friendly APIs. I focus on simple designs that scale and ship features quickly.
+
+
 ---
 
 ## 🧰 Tech Stack
@@ -49,6 +52,13 @@ Multi-language website with booking & accessibility features
 🌐 Live: [https://gandiveshwarnath.free.nf/](https://gandiveshwarnath.free.nf/)
 
 ---
+## ⚙️ How I Work
+
+- API-first development
+- Performance before complexity
+- Ship fast, iterate faster
+- Clear logging & error handling
+- Production-focused mindset
 
 ## 🧠 Engineering Focus
 
@@ -74,4 +84,4 @@ Multi-language website with booking & accessibility features
 
 ---
 
-⭐ Open to remote Software Engineer / Backend / Platform roles
+⭐ 🌍 Remote-ready • Open to global engineering teams
